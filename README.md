@@ -22,6 +22,6 @@ Most of my commercial work is under NDA — showcase repos contain sanitized arc
 
 ## 📫 Contact
 
-- Telegram: [@your_username](https://t.me/your_username)
-- Email: your@email.com
+- Telegram: [@cybrmishka](https://t.me/cybrmishka)
+- Email: mihars2@gmail.com
 - Open to freelance projects: bots, automation, integrations
