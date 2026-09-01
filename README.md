@@ -16,6 +16,7 @@
 | Project | What it is |
 |---|---|
 | [organizer-bot-showcase](https://github.com/MihaRS2/organizer-bot-showcase) | Production Telegram bot for a support team: CalDAV calendar sync, meeting-capacity alerts, race-safe assignment via `SELECT FOR UPDATE` |
+| [support-sla-bot-showcase](https://github.com/MihaRS2/support-sla-bot-showcase) | Production SLA bot for a B2B support team: working-hours-aware timers, escalation ladder, OpenAI classification with heuristic fallback, Matrix & IMAP integrations, matplotlib reports |
 | *more showcases coming soon* | E-commerce Telegram bot with AI copywriting & delivery-cost calculation · CRM with a booking bot |
 
 Most of my commercial work is under NDA — showcase repos contain sanitized architecture highlights from real production systems.
