@@ -1,4 +1,4 @@
-# Hi, I'm Mikhail 👋
+# Hi, I'm Mihail 👋
 
 **Automation & Bot Developer** — I build Telegram bots, business automation, and web apps that run in production and save teams hours every day.
 
