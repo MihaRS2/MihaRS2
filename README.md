@@ -11,6 +11,13 @@
 
 `Python` · `TypeScript / Node.js` · `React` · `aiogram / grammY` · `PostgreSQL` · `SQLAlchemy` · `Docker` · `n8n` · `Playwright` · `OpenAI API`
 
+## 🚀 Products I built & run
+
+| | |
+|---|---|
+| **[Morsmorii](https://morsmorii.ru)** | AI aggregator for the Russian market: 20+ models (GPT, Claude, Gemini, image / music / video generation) behind one subscription. Solo-built: Next.js app, LiteLLM model routing, billing, org workspaces, OpenAI-compatible API for IDEs. Docker on a VPS. |
+| **[Trialix](https://trialix.ru)** | Corporate AI portal (B2B SaaS): per-department agents with knowledge bases, answers with cited sources, roles & spending limits, company branding — cloud or fully on-prem. Next.js · PostgreSQL · Docker. |
+
 ## 📌 Featured work
 
 | Project | What it is |
